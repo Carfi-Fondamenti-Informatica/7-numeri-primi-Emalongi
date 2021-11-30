@@ -10,4 +10,4 @@ bool primi(int numero, int divisore){
     primi(numero,--divisore);
 
 }
-
+//
