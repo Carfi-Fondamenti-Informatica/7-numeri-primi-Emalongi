@@ -1,4 +1,4 @@
-
+//lol
 #ifndef ESERCITAZIONE7_LIB_H
 #define ESERCITAZIONE7_LIB_H
 
